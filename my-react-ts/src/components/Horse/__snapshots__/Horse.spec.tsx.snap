@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`./Horse.tsx should render as expected 1`] = `
+<div
+  className="Horse"
+  style={
+    Object {
+      "paddingLeft": "0px",
+    }
+  }
+>
+  <img
+    height="100px"
+    src={undefined}
+  />
+</div>
+`;

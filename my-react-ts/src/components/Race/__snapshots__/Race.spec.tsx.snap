@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`./Race.tsx should render as expected 1`] = `
+<div
+  className="Race"
+>
+  <div>
+    <div
+      className="Track"
+    >
+      <div
+        className="Horse"
+        style={
+          Object {
+            "paddingLeft": "0px",
+          }
+        }
+      >
+        <img
+          height="100px"
+          src="https://avatars1.githubusercontent.com/u/7723306?v=4"
+        />
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="Track"
+    >
+      <div
+        className="Horse"
+        style={
+          Object {
+            "paddingLeft": "0px",
+          }
+        }
+      >
+        <img
+          height="100px"
+          src="https://avatars1.githubusercontent.com/u/6040547?v=4"
+        />
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="Track"
+    >
+      <div
+        className="Horse"
+        style={
+          Object {
+            "paddingLeft": "0px",
+          }
+        }
+      >
+        <img
+          height="100px"
+          src="https://avatars1.githubusercontent.com/u/16746699?v=4"
+        />
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="Track"
+    >
+      <div
+        className="Horse"
+        style={
+          Object {
+            "paddingLeft": "0px",
+          }
+        }
+      >
+        <img
+          height="100px"
+          src="https://avatars3.githubusercontent.com/u/6782492?v=4"
+        />
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="Track"
+    >
+      <div
+        className="Horse"
+        style={
+          Object {
+            "paddingLeft": "0px",
+          }
+        }
+      >
+        <img
+          height="100px"
+          src="https://avatars1.githubusercontent.com/u/10465564?v=4"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
