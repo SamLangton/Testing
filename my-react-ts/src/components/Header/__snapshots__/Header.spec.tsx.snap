@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`./Header.tsx should render as expected 1`] = `
+<header
+  className="App-header"
+>
+  <img
+    alt="logo"
+    className="App-logo"
+  />
+  <h1
+    className="App-title"
+  >
+    Implementation Race
+  </h1>
+  <div
+    className="ScoreBoard"
+  >
+    <h2
+      className="grads"
+    >
+      Kurtosys Grads
+    </h2>
+  </div>
+</header>
+`;

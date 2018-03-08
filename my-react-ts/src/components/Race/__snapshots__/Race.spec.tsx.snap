@@ -18,7 +18,7 @@ exports[`./Race.tsx should render as expected 1`] = `
       >
         <img
           height="100px"
-          src="https://avatars1.githubusercontent.com/u/7723306?v=4"
+          src="https://avatars0.githubusercontent.com/u/5137591?v=4"
         />
       </div>
     </div>
@@ -37,7 +37,7 @@ exports[`./Race.tsx should render as expected 1`] = `
       >
         <img
           height="100px"
-          src="https://avatars1.githubusercontent.com/u/6040547?v=4"
+          src="https://avatars0.githubusercontent.com/u/6842205?v=4"
         />
       </div>
     </div>
@@ -56,7 +56,7 @@ exports[`./Race.tsx should render as expected 1`] = `
       >
         <img
           height="100px"
-          src="https://avatars1.githubusercontent.com/u/16746699?v=4"
+          src="https://avatars2.githubusercontent.com/u/2323810?v=4"
         />
       </div>
     </div>
@@ -75,7 +75,7 @@ exports[`./Race.tsx should render as expected 1`] = `
       >
         <img
           height="100px"
-          src="https://avatars3.githubusercontent.com/u/6782492?v=4"
+          src="https://avatars2.githubusercontent.com/u/1482046?v=4"
         />
       </div>
     </div>
@@ -94,7 +94,7 @@ exports[`./Race.tsx should render as expected 1`] = `
       >
         <img
           height="100px"
-          src="https://avatars1.githubusercontent.com/u/10465564?v=4"
+          src="https://avatars3.githubusercontent.com/u/15605543?v=4"
         />
       </div>
     </div>

@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`./App.tsx should render as expected 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+    />
+    <h1
+      className="App-title"
+    >
+      Implementation Race
+    </h1>
+    <div
+      className="ScoreBoard"
+    >
+      <h2
+        className="grads"
+      >
+        Kurtosys Grads
+      </h2>
+    </div>
+  </header>
+  <article>
+    <section>
+      <div
+        className="Controls"
+      >
+        <button
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Start
+        </button>
+        <button
+          disabled={true}
+          onClick={[Function]}
+          type="button"
+        >
+          Reset
+        </button>
+      </div>
+      <div
+        className="Race"
+      >
+        <div>
+          <div
+            className="Track"
+          >
+            <div
+              className="Horse"
+              style={
+                Object {
+                  "paddingLeft": "0px",
+                }
+              }
+            >
+              <img
+                height="100px"
+                src="https://avatars0.githubusercontent.com/u/6842205?v=4"
+              />
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            className="Track"
+          >
+            <div
+              className="Horse"
+              style={
+                Object {
+                  "paddingLeft": "0px",
+                }
+              }
+            >
+              <img
+                height="100px"
+                src="https://avatars0.githubusercontent.com/u/5137591?v=4"
+              />
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            className="Track"
+          >
+            <div
+              className="Horse"
+              style={
+                Object {
+                  "paddingLeft": "0px",
+                }
+              }
+            >
+              <img
+                height="100px"
+                src="https://avatars3.githubusercontent.com/u/6782492?v=4"
+              />
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            className="Track"
+          >
+            <div
+              className="Horse"
+              style={
+                Object {
+                  "paddingLeft": "0px",
+                }
+              }
+            >
+              <img
+                height="100px"
+                src="https://avatars2.githubusercontent.com/u/15945437?v=4"
+              />
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            className="Track"
+          >
+            <div
+              className="Horse"
+              style={
+                Object {
+                  "paddingLeft": "0px",
+                }
+              }
+            >
+              <img
+                height="100px"
+                src="https://avatars0.githubusercontent.com/u/13163437?v=4"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </article>
+</div>
+`;

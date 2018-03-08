@@ -15,7 +15,7 @@ export class Header extends React.Component<Props, {}> {
 		return (
 			<header className="App-header" >
 				<img
-					src={require('../../images/logo.svg')}
+					// src={require('../../images/logo.svg')}
 					className={raceInProgress ? 'App-logo-active' : 'App-logo'}
 					alt="logo"
 				/>
