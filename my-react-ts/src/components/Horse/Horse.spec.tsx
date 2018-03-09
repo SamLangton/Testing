@@ -9,12 +9,8 @@ import { getRacerData } from '../../utils';
 describe('./Horse.tsx', () => {
 
 	it('should render as expected', () => {
-		let props = {
-			Racer: {getRacerData}
-
-		}
 		const component = renderer.create(
-			<Horse racer={props[0]}/>
+			<Horse racer={"Racer"}/>
 		);
 		let tree = component.toJSON();
 		expect(tree).toMatchSnapshot();
